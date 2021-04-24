@@ -1,0 +1,6 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_idea_johan_sohr"
+        texturefile = "gfx/interface/advisors/advisor_johan_sohr.dds"
+    }
+}

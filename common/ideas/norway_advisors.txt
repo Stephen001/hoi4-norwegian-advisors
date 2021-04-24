@@ -1,0 +1,18 @@
+ideas = {
+	political_advisor = {
+		NOR_johan_sohr = {
+			picture = johan_sohr
+
+			allowed = {
+				original_tag = NOR
+			}
+
+            available = {
+                date > 1906.01.01
+                date < 1949.01.01
+            }
+			
+			traits = { head_of_intelligence }
+		}
+	}
+}
